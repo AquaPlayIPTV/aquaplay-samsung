@@ -55,7 +55,7 @@ The `.wgt` is unsigned on purpose: Apps2Samsung signs it for your TV as it insta
 
 ## Updating
 
-Download the new `.wgt` and install it the same way, from the same computer. It replaces the old one and keeps your playlists and settings.
+Download the new `.wgt` and install it the same way, from the same computer. It replaces the old one and keeps your playlists and settings. From version 1.0.40, AquaPlay tells you itself when a new version is out (once a day it asks GitHub for this repository's latest release; Settings → Advanced turns that off).
 
 A copy installed from a different computer was signed with a different certificate, and the TV will not install over it. Back up to your phone first (AquaPlay's Settings), then delete AquaPlay on the TV (Apps, then the settings gear) and install again.
 
