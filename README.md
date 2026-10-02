@@ -43,7 +43,7 @@ AquaPlay is a player only and comes with no channels or content: you need a play
 
 ## Install
 
-You need a Samsung Smart TV from 2018 or later (Tizen 4.0 or newer) and a computer (Windows, macOS or Linux) on the same network.
+You need a Samsung Smart TV from 2017 or later (Tizen 3.0 or newer) and a computer (Windows, macOS or Linux) on the same network.
 
 1. **Turn on Developer Mode on the TV.** Open *Apps*, then press **1 2 3 4 5** on the remote (or on the on-screen number pad). Switch *Developer mode* on, type your computer's IP address, choose OK, and restart the TV: hold the power button until it switches off and on again.
 2. **Get [Apps2Samsung](https://github.com/Apps2Samsung/Apps2Samsung)** on your computer and open it. It finds your TV.
