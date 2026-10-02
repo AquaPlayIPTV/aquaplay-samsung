@@ -63,13 +63,11 @@ A copy installed from a different computer was signed with a different certifica
 
 AquaPlay is free on Samsung TVs. If you enjoy it, you can say thank you with a donation on **[Ko-fi](https://ko-fi.com/devdolev)**. It is in the app too: Settings, then *Support AquaPlay*.
 
+Follow **[@AquaPlayIPTV](https://x.com/AquaPlayIPTV)**
+
 ## Also on Android TV
 
 AquaPlay is on [Google Play](https://play.google.com/store/apps/details?id=com.aquaplay.tv) for Android TV and Google TV, with multi-view and recording as well.
-
-## News
-
-New versions, and what is coming next, are posted on X: follow **[@AquaPlayIPTV](https://x.com/AquaPlayIPTV)**.
 
 ## Questions, problems and ideas
 
