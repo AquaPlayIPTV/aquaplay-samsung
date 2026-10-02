@@ -67,6 +67,10 @@ AquaPlay is free on Samsung TVs. If you enjoy it, you can say thank you with a d
 
 AquaPlay is on [Google Play](https://play.google.com/store/apps/details?id=com.aquaplay.tv) for Android TV and Google TV, with multi-view and recording as well.
 
+## News
+
+New versions, and what is coming next, are posted on X: follow **[@AquaPlayIPTV](https://x.com/AquaPlayIPTV)**.
+
 ## Questions, problems and ideas
 
 Open an [issue](https://github.com/AquaPlayIPTV/aquaplay-samsung/issues), or write to devdolev@gmail.com. The [privacy policy](https://aquaplayiptv.github.io/privacy.html) says what AquaPlay keeps and sends.
