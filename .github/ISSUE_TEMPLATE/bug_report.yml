@@ -1,0 +1,44 @@
+name: Bug report
+description: Something in AquaPlay is not working
+labels: [bug]
+body:
+  - type: input
+    id: settings
+    attributes:
+      label: Share your settings link
+      description: In AquaPlay open Settings > About and Help > Share your settings, then paste the link here. It has your device, version and memory. It never includes your playlist address or login.
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+      description: Say where in the app you were and what you pressed. Please do not paste your playlist link or login.
+    validations:
+      required: true
+  - type: dropdown
+    id: other_apps
+    attributes:
+      label: Does the same problem happen in other IPTV apps with this playlist?
+      options:
+        - "Yes"
+        - "No"
+        - Not tested
+    validations:
+      required: true
+  - type: dropdown
+    id: how_often
+    attributes:
+      label: How often does it happen?
+      options:
+        - Every time
+        - Sometimes
+        - Only once
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshot or photo of the screen (optional)
+    validations:
+      required: false
