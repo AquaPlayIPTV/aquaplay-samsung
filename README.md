@@ -11,27 +11,34 @@ This repository holds the releases of the Samsung app, ready to install with [Ap
 ## What it does
 
 **Setup and playlists**
-- M3U playlists and Xtream Codes accounts, several at once
+- M3U playlists, Xtream Codes accounts and MAG (Stalker) portals, several at once
 - Setup from your phone: scan a code on the TV and type the details on your phone. The playlist is encrypted on the phone and only your TV can read it.
-- Send playlists and settings to another TV, and back up to your phone
+- Send playlists and settings to another TV, and back up to your phone or a file
 
 **Live TV and the guide**
-- Groups, favourites, recently watched, a catch-up group, and the option to hide groups
-- A full programme guide: now and next on every channel, the schedule beside the picture, and a TV Catalogue over several days
+- Groups, favourites, recently watched and a catch-up group; pin, hide, lock and sort groups, and make your own (hold OK)
+- Two layouts: the schedule beside the channel list, or a guide grid
+- A full programme guide: now and next on every channel, and a TV Catalogue over several days
 - Programme reminders, and search across channels and programmes
 - Catch-up where your provider has it: replay programmes, start one over, and rewind live TV
 - Your own channel numbers and remote buttons
 
 **Movies and series**
-- Movies & Series on a screen of their own
+- Movies & Series on a screen of their own: sort, hide what you have watched, and jump by letter
+- Continue watching and Recently added, episodes marked as watched, and Skip intro and Up next
+- Mark what you watch on your Simkl account
 
 **Playback**
-- Audio and subtitle tracks, picture size, automatic reconnection, a delay warning and a sleep timer
+- Hold OK while watching for a menu with everything
+- Subtitles in a panel beside the picture: found online (OpenSubtitles), in your language, with sync, size and colour
+- Audio and subtitle tracks remembered for each channel, film or series, picture size, playback speed
+- Automatic reconnection, a delay warning, a sleep timer and a clock in the corner
 
 **Yours**
 - Profiles, each with their own favourites and history
-- Aqua, OLED and Custom themes with 24 accent colours, three text sizes, ten languages
-- Parental PIN and channel locks
+- Aqua, OLED and Custom themes with 24 accent colours, three text sizes
+- 16 languages: English, Spanish, French, German, Portuguese, Italian, Polish, Russian, Hindi, Japanese, Korean, Hebrew, Arabic, Chinese, Turkish and Finnish
+- Settings with a search, a parental PIN and channel locks
 - No advertisements, no tracking, no account
 
 AquaPlay is a player only and comes with no channels or content: you need a playlist from your own provider.
@@ -63,15 +70,15 @@ A copy installed from a different computer was signed with a different certifica
 
 AquaPlay is free on Samsung TVs. If you enjoy it, you can say thank you with a donation on **[Ko-fi](https://ko-fi.com/devdolev)**. It is in the app too: Settings, then *Support AquaPlay*.
 
-Follow **[@AquaPlayIPTV](https://x.com/AquaPlayIPTV)**
+Join the **[Discord](https://discord.gg/5A5mDrwK8w)** · Follow **[@AquaPlayIPTV](https://x.com/AquaPlayIPTV)**
 
 ## Also on Android TV
 
-AquaPlay is on [Google Play](https://play.google.com/store/apps/details?id=com.aquaplay.tv) for Android TV and Google TV, with multi-view and recording as well.
+AquaPlay is on [Google Play](https://play.google.com/store/apps/details?id=com.aquaplay.tv) for Android TV and Google TV, with multi-view and recording as well (some features are Premium there).
 
 ## Questions, problems and ideas
 
-Open an [issue](https://github.com/AquaPlayIPTV/aquaplay-samsung/issues), or write to devdolev@gmail.com. The [privacy policy](https://aquaplayiptv.github.io/privacy.html) says what AquaPlay keeps and sends.
+Ask on our **[Discord](https://discord.gg/5A5mDrwK8w)**, report a bug with an [issue](https://github.com/AquaPlayIPTV/aquaplay-samsung/issues), or write to devdolev@gmail.com. The [privacy policy](https://aquaplayiptv.github.io/privacy.html) says what AquaPlay keeps and sends.
 
 ## Licence
 
