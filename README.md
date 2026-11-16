@@ -2,7 +2,7 @@
 
 A lightweight IPTV player for Samsung Smart TVs (Tizen). **Free, with everything included.**
 
-![The channel list, with the guide beside the picture](screenshots/01-channels-and-guide.jpg)
+![Live TV with the guide beside it](screenshots/01-live-tv-and-guide.jpg)
 
 **[Download the latest version](https://github.com/AquaPlayIPTV/aquaplay-samsung/releases/latest)** · [Install guide](https://aquaplayiptv.github.io/samsung.html) · [Support AquaPlay on Ko-fi](https://ko-fi.com/devdolev)
 
@@ -13,6 +13,7 @@ This repository holds the releases of the Samsung app, ready to install with [Ap
 **Setup and playlists**
 - M3U playlists, Xtream Codes accounts and MAG (Stalker) portals, several at once
 - Setup from your phone: scan a code on the TV and type the details on your phone. The playlist is encrypted on the phone and only your TV can read it.
+- An Xtream account can have a guide (EPG) address of its own, from the TV or from the phone
 - Send playlists and settings to another TV, and back up to your phone or a file
 
 **Live TV and the guide**
@@ -21,6 +22,7 @@ This repository holds the releases of the Samsung app, ready to install with [Ap
 - A full programme guide: now and next on every channel, and a TV Catalogue over several days
 - Programme reminders, and search across channels and programmes
 - Catch-up where your provider has it: replay programmes, start one over, and rewind live TV
+- CH+ and CH- can page the channel list a page at a time, either way round
 - Your own channel numbers and remote buttons
 
 **Movies and series**
@@ -32,12 +34,14 @@ This repository holds the releases of the Samsung app, ready to install with [Ap
 - Hold OK while watching for a menu with everything
 - Subtitles in a panel beside the picture: found online (OpenSubtitles), in your language, with sync, size and colour
 - Audio and subtitle tracks remembered for each channel, film or series, picture size, playback speed
-- Automatic reconnection, a delay warning, a sleep timer and a clock in the corner
+- A channel, film or episode that drops reconnects by itself, films and episodes from where they stopped
+- A choice of HLS player for live channels that keep stopping
+- A delay warning, a sleep timer and a clock in the corner
 
 **Yours**
 - Profiles, each with their own favourites and history
 - Aqua, OLED and Custom themes with 24 accent colours, three text sizes
-- 16 languages: English, Spanish, French, German, Portuguese, Italian, Polish, Russian, Hindi, Japanese, Korean, Hebrew, Arabic, Chinese, Turkish and Finnish
+- 17 languages: English, Spanish, French, German, Portuguese, Italian, Polish, Russian, Hindi, Japanese, Korean, Hebrew, Arabic, Chinese, Turkish, Finnish and Vietnamese
 - Settings with a search, a parental PIN and channel locks
 - No advertisements, no tracking, no account
 
@@ -45,8 +49,12 @@ AquaPlay is a player only and comes with no channels or content: you need a play
 
 | | |
 |---|---|
-| ![TV Catalogue](screenshots/03-tv-catalogue.jpg) | ![Catch-up](screenshots/04-catch-up.jpg) |
-| ![Search](screenshots/05-search.jpg) | ![The menu](screenshots/08-menu.jpg) |
+| ![Your movies and series](screenshots/02-movies-and-series.jpg) | ![Add your playlist from your phone](screenshots/03-add-from-phone.jpg) |
+| ![The full TV guide](screenshots/04-tv-guide.jpg) | ![Start over and rewind live TV](screenshots/05-start-over-and-rewind.jpg) |
+| ![Continue where you stopped](screenshots/06-continue-watching.jpg) | ![Subtitles your way](screenshots/07-subtitle-style.jpg) |
+| ![Make it yours: themes, accent colours, text size and layouts](screenshots/08-make-it-yours.jpg) | |
+
+The pictures show made-up channels and films: AquaPlay plays what is in your own playlist.
 
 ## Install
 
