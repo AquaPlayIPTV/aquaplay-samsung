@@ -33,7 +33,7 @@ This repository holds the releases of the Samsung app, ready to install with [Ap
 **Playback**
 - Hold OK while watching for a menu with everything
 - Subtitles in a panel beside the picture: found online (OpenSubtitles), in your language, with sync, size and colour
-- Audio and subtitle tracks remembered for each channel, film or series, picture size, playback speed
+- Audio and subtitle tracks remembered for each channel, film or series, picture size
 - A channel, film or episode that drops reconnects by itself, films and episodes from where they stopped
 - A choice of HLS player for live channels that keep stopping
 - A delay warning, a sleep timer and a clock in the corner
