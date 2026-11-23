@@ -23,11 +23,13 @@ This repository holds the releases of the Samsung app, ready to install with [Ap
 - Programme reminders, and search across channels and programmes
 - Catch-up where your provider has it: replay programmes, start one over, and rewind live TV
 - CH+ and CH- can page the channel list a page at a time, either way round
+- Stream quality for each channel, and a channel's guide chosen by hand
 - Your own channel numbers and remote buttons
 
 **Movies and series**
 - Movies & Series on a screen of their own: sort, hide what you have watched, and jump by letter
 - Continue watching and Recently added, episodes marked as watched, and Skip intro and Up next
+- A page for each film, with its story, cast and director, and series in the same look with a row of episodes
 - Mark what you watch on your Simkl account
 
 **Playback**
@@ -70,7 +72,7 @@ The `.wgt` is unsigned on purpose: Apps2Samsung signs it for your TV as it insta
 
 ## Updating
 
-Download the new `.wgt` and install it the same way, from the same computer. It replaces the old one and keeps your playlists and settings. From version 1.0.40, AquaPlay tells you itself when a new version is out (once a day it asks GitHub for this repository's latest release; Settings → Advanced turns that off).
+Download the new `.wgt` and install it the same way, from the same computer. It replaces the old one and keeps your playlists and settings. From version 1.0.54, AquaPlay updates itself: once a day it asks GitHub for this repository's latest release, downloads it, checks it and asks you to restart into it (Settings → Advanced → New versions: update automatically, only say so, or off). Versions 1.0.40 to 1.0.53 only tell you when a new version is out.
 
 A copy installed from a different computer was signed with a different certificate, and the TV will not install over it. Back up to your phone first (AquaPlay's Settings), then delete AquaPlay on the TV (Apps, then the settings gear) and install again.
 
